@@ -7,4 +7,8 @@ private int no;
  	this.no =no;
 
  }
+ //왕짜증 팀장이 요구한 함수 왜저럴까
+  public int getNo(){
+  	return this.no
+  }
 }
