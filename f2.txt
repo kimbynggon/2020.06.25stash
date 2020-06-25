@@ -5,5 +5,7 @@ class B {
 	public B(String name,int no){
 	this.name = name;
 	}
-
+	public void setName(String name){
+		this.name = name;
+	}
 }
