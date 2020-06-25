@@ -1,0 +1,9 @@
+class B {
+	private String name;//instance member variable
+	public static int no;//static member variable
+
+	public B(String name,int no){
+	this.name = name;
+	}
+
+}
